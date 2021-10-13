@@ -1,1 +1,15 @@
-
+{
+	"name": "dependabot",
+	"displayName": "dependabot",
+	"description": "generates pr's for vendored packages via my-precious",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"main": "./out/extension.js",
+	"devDependencies": {},
+	"dependencies": {
+		"my-precious": "^2.0.0",
+		"typescript": "^2.0.10"
+	}
+}
