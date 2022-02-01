@@ -9,7 +9,7 @@
 	"main": "./out/extension.js",
 	"devDependencies": {},
 	"dependencies": {
-		"lodash": "^4.17.20",
+		"lodash": "^3.17.20",
 		"my-precious": "^2.0.0",
 		"typescript": "^2.0.10"
 	}
